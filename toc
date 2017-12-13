@@ -2,8 +2,13 @@
 {:topicgroup: .topicgroup}
 
 {: .toc subcollection="ghededicated" audience="service" href="/docs/services/ghededicated/index.html"}
-Bluemix Dedicated for GitHub Enterprise
+GitHub Enterprise on IBM Cloud
 
-  {: .navgroup id="howto"}
+    {: .navgroup id="learn"}
     index.md
-  {: .navgroup-end}
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    faq.md
+    [Getting help and support]( ../../support/index.html#contacting-bluemix-support-dedicated-local)
+    {: .navgroup-end}
