@@ -1,0 +1,13 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="ghededicated" audience="service" href="/docs/services/ghededicated/index.html"}
+GitHub Enterprise sur IBM Cloud
+
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    faq.md
+    [Aide et assistance ]( ../../support/index.html#contacting-bluemix-support-dedicated-local) {: .navgroup-end}
